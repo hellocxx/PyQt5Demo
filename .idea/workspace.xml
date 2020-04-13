@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d568241f-8871-43b5-8dbe-65758b998039" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainWinContainerLqyout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainWinContainerLqyout.ui" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\pythonworks\PyQt5Demo" />
+        <option value="E:\pythonworks\PyQt5Demo\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aSqtCnp1z3DxWKi8s5qWpsa0bT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d568241f-8871-43b5-8dbe-65758b998039" name="默认更改列表" comment="" />
+      <created>1586739554642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586739554642</updated>
+      <workItem from="1586739562602" duration="4797000" />
+    </task>
+    <task id="LOCAL-00001" summary="grid layout">
+      <created>1586742623489</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586742623489</updated>
+    </task>
+    <task id="LOCAL-00002" summary="formlayout">
+      <created>1586743811826</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586743811826</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="grid layout" />
+    <MESSAGE value="formlayout" />
+    <option name="LAST_COMMIT_MESSAGE" value="formlayout" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="487" y="44" key="CommitChangelistDialog2" timestamp="1586743792772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="487" y="44" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586743792772" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1586743903002">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586743903002" />
+    <state x="690" y="221" key="FileChooserDialogImpl" timestamp="1586741246266">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="221" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586741246266" />
+    <state x="846" y="394" width="349" height="357" key="Github.ShareDialog" timestamp="1586741319034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="846" y="394" width="349" height="357" key="Github.ShareDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586741319034" />
+    <state x="759" y="157" key="Github.UntrackedFilesDialog" timestamp="1586741122508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="157" key="Github.UntrackedFilesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586741122508" />
+    <state width="933" height="267" key="GridCell.Tab.0.bottom" timestamp="1586747481521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="933" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586747481521" />
+    <state width="933" height="267" key="GridCell.Tab.0.center" timestamp="1586747481520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="933" height="267" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586747481520" />
+    <state width="933" height="267" key="GridCell.Tab.0.left" timestamp="1586747481520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="933" height="267" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586747481520" />
+    <state width="933" height="267" key="GridCell.Tab.0.right" timestamp="1586747481520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="933" height="267" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586747481520" />
+    <state x="352" y="85" key="SettingsEditor" timestamp="1586740953698">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="352" y="85" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586740953698" />
+    <state x="452" y="191" key="Vcs.Push.Dialog.v2" timestamp="1586747492105">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="191" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586747492105" />
+    <state x="636" y="195" key="VcsDiffUtil.ChangesDialog" timestamp="1586743058471">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="195" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586743058471" />
+    <state x="539" y="5" key="search.everywhere.popup" timestamp="1586747471547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586747471547" />
+  </component>
+</project>
