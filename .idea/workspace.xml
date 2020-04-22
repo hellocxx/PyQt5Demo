@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d568241f-8871-43b5-8dbe-65758b998039" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/MainWinAbsolutionLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainWinAbsolutionLayout.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainWinbuddyAndsunxv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainWinbuddyAndsunxv.ui" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +44,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -102,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586739554642</updated>
       <workItem from="1586739562602" duration="7624000" />
-      <workItem from="1587519691739" duration="3896000" />
+      <workItem from="1587519691739" duration="7662000" />
     </task>
     <task id="LOCAL-00001" summary="grid layout">
       <created>1586742623489</created>
@@ -132,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587520137993</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="4.22">
+      <created>1587523667766</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587523667766</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,10 +164,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="4.22" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="487" y="44" key="CommitChangelistDialog2" timestamp="1587520098500">
+    <state x="487" y="44" key="CommitChangelistDialog2" timestamp="1587543930359">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="487" y="44" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587520098500" />
+    <state x="487" y="44" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587543930359" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1587523530246">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -176,30 +184,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="759" y="157" key="Github.UntrackedFilesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586741122508" />
-    <state width="1867" height="267" key="GridCell.Tab.0.bottom" timestamp="1586757843832">
+    <state width="933" height="267" key="GridCell.Tab.0.bottom" timestamp="1587543912532">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586757843832" />
-    <state width="1867" height="267" key="GridCell.Tab.0.center" timestamp="1586757843831">
+    <state width="933" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587543912532" />
+    <state width="933" height="267" key="GridCell.Tab.0.center" timestamp="1587543912532">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="267" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586757843831" />
-    <state width="1867" height="267" key="GridCell.Tab.0.left" timestamp="1586757843831">
+    <state width="933" height="267" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587543912532" />
+    <state width="933" height="267" key="GridCell.Tab.0.left" timestamp="1587543912532">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="267" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586757843831" />
-    <state width="1867" height="267" key="GridCell.Tab.0.right" timestamp="1586757843832">
+    <state width="933" height="267" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587543912532" />
+    <state width="933" height="267" key="GridCell.Tab.0.right" timestamp="1587543912532">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="267" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586757843832" />
+    <state width="933" height="267" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587543912532" />
     <state x="352" y="85" key="SettingsEditor" timestamp="1586747977249">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="352" y="85" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586747977249" />
-    <state x="452" y="191" key="Vcs.Push.Dialog.v2" timestamp="1587523638346">
+    <state x="452" y="191" key="Vcs.Push.Dialog.v2" timestamp="1587543961121">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="191" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587523638346" />
+    <state x="452" y="191" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587543961121" />
     <state x="636" y="195" key="VcsDiffUtil.ChangesDialog" timestamp="1587523445021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
