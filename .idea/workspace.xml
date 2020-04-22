@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d568241f-8871-43b5-8dbe-65758b998039" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/MainWinbuddyAndsunxv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MainWinbuddyAndsunxv.ui" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586739554642</updated>
       <workItem from="1586739562602" duration="7624000" />
-      <workItem from="1587519691739" duration="7662000" />
+      <workItem from="1587519691739" duration="8001000" />
     </task>
     <task id="LOCAL-00001" summary="grid layout">
       <created>1586742623489</created>
@@ -140,7 +138,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587523667766</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="4.22">
+      <created>1587543933440</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587543933440</updated>
+    </task>
+    <task id="LOCAL-00007" summary="4.22 2">
+      <created>1587543984784</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587543984784</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,13 +173,14 @@
     <MESSAGE value="formlayout" />
     <MESSAGE value="container layout" />
     <MESSAGE value="4.22" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.22" />
+    <MESSAGE value="4.22 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.22 2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="487" y="44" key="CommitChangelistDialog2" timestamp="1587543930359">
+    <state x="487" y="44" key="CommitChangelistDialog2" timestamp="1587543981550">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="487" y="44" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587543930359" />
+    <state x="487" y="44" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587543981550" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1587523530246">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -204,10 +217,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="352" y="85" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586747977249" />
-    <state x="452" y="191" key="Vcs.Push.Dialog.v2" timestamp="1587543961121">
+    <state x="452" y="191" key="Vcs.Push.Dialog.v2" timestamp="1587544026323">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="191" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587543961121" />
+    <state x="452" y="191" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587544026323" />
     <state x="636" y="195" key="VcsDiffUtil.ChangesDialog" timestamp="1587523445021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
