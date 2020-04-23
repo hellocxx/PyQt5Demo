@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d568241f-8871-43b5-8dbe-65758b998039" name="默认更改列表" comment="4.23">
+    <list default="true" id="d568241f-8871-43b5-8dbe-65758b998039" name="默认更改列表" comment="4.23 signal and slot 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainWinSignalAndSlot.py" beforeDir="false" afterPath="$PROJECT_DIR$/MainWinSignalAndSlot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainWinSignalAndSlot.ui" beforeDir="false" afterPath="$PROJECT_DIR$/MainWinSignalAndSlot.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstMainWin.py" beforeDir="false" afterPath="$PROJECT_DIR$/FirstMainWin.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +48,31 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/hllo" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.FirstMainWin">
+    <configuration name="FirstMainWin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyQt5Demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FirstMainWin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyQt5Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.FirstMainWin" />
         <item itemvalue="Python.Run" />
       </list>
     </recent_temporary>
@@ -105,7 +127,8 @@
       <workItem from="1586739562602" duration="7624000" />
       <workItem from="1587519691739" duration="9571000" />
       <workItem from="1587545845456" duration="2173000" />
-      <workItem from="1587605180906" duration="2534000" />
+      <workItem from="1587605180906" duration="4593000" />
+      <workItem from="1587611349983" duration="4760000" />
     </task>
     <task id="LOCAL-00001" summary="grid layout">
       <created>1586742623489</created>
@@ -198,7 +221,28 @@
       <option name="project" value="LOCAL" />
       <updated>1587607194643</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="4.23 signal and slot 2">
+      <created>1587607932798</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1587607932798</updated>
+    </task>
+    <task id="LOCAL-00015" summary="4.23 toolBar and menubar">
+      <created>1587608820896</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1587608820896</updated>
+    </task>
+    <task id="LOCAL-00016" summary="4.23 代码操作">
+      <created>1587611975190</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1587611975191</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,13 +268,16 @@
     <MESSAGE value="4.22 finally" />
     <MESSAGE value="4.23" />
     <MESSAGE value="4.23 signal and slot" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.23 signal and slot" />
+    <MESSAGE value="4.23 signal and slot 2" />
+    <MESSAGE value="4.23 toolBar and menubar" />
+    <MESSAGE value="4.23 代码操作" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.23 代码操作" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="487" y="44" key="CommitChangelistDialog2" timestamp="1587607191571">
+    <state x="487" y="44" key="CommitChangelistDialog2" timestamp="1587611968313">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="487" y="44" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587607191571" />
+    <state x="487" y="44" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587611968313" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1587605916834">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -247,22 +294,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="759" y="157" key="Github.UntrackedFilesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586741122508" />
-    <state width="1867" height="267" key="GridCell.Tab.0.bottom" timestamp="1587607889504">
+    <state width="1869" height="268" key="GridCell.Tab.0.bottom" timestamp="1587634312335">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587607889504" />
-    <state width="1867" height="267" key="GridCell.Tab.0.center" timestamp="1587607889503">
+    <state width="1869" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587634312335" />
+    <state width="1869" height="268" key="GridCell.Tab.0.center" timestamp="1587634312335">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="267" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587607889503" />
-    <state width="1867" height="267" key="GridCell.Tab.0.left" timestamp="1587607889503">
+    <state width="1869" height="268" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587634312335" />
+    <state width="1869" height="268" key="GridCell.Tab.0.left" timestamp="1587634312335">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="267" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587607889503" />
-    <state width="1867" height="267" key="GridCell.Tab.0.right" timestamp="1587607889503">
+    <state width="1869" height="268" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587634312335" />
+    <state width="1869" height="268" key="GridCell.Tab.0.right" timestamp="1587634312335">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="267" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587607889503" />
+    <state width="1869" height="268" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587634312335" />
     <state width="1867" height="332" key="GridCell.Tab.1.bottom" timestamp="1587544990310">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -279,14 +326,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1867" height="332" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587544990310" />
-    <state x="352" y="85" key="SettingsEditor" timestamp="1587546655236">
+    <state x="352" y="85" key="SettingsEditor" timestamp="1587612486962">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="352" y="85" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587546655236" />
-    <state x="452" y="191" key="Vcs.Push.Dialog.v2" timestamp="1587607905517">
+    <state x="352" y="85" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587612486962" />
+    <state x="452" y="191" key="Vcs.Push.Dialog.v2" timestamp="1587611987067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="191" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587607905517" />
+    <state x="452" y="191" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587611987067" />
     <state x="636" y="195" key="VcsDiffUtil.ChangesDialog" timestamp="1587523445021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -295,10 +342,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587523530246" />
-    <state x="588" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1587605330439">
+    <state x="588" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1587611758309">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="588" y="306" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587605330439" />
+    <state x="588" y="306" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587611758309" />
     <state x="694" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587523397663">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -317,6 +364,7 @@
     <state x="539" y="5" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1586747471547" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PyQt5Demo$Run.coverage" NAME="Run Coverage Results" MODIFIED="1587607120708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt5Demo$Run.coverage" NAME="Run Coverage Results" MODIFIED="1587633536658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyQt5Demo$FirstMainWin.coverage" NAME="FirstMainWin Coverage Results" MODIFIED="1587634312328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
